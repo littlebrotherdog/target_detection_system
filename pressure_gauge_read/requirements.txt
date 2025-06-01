@@ -1,0 +1,7 @@
+ultralytics~=8.1.9
+opencv-python~=4.6.0.66
+numpy~=1.26.3
+matplotlib~=3.8.2
+tqdm~=4.66.1
+pillow~=10.2.0
+paddleocr~=2.7.3
